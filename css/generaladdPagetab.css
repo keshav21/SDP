@@ -1,0 +1,109 @@
+body, html{
+    width:100%;
+    margin: 0 auto 0;
+}
+
+
+.add-general-first-block,add-page-menu-block {
+    width:100%;
+    height: 60px;
+    background:#20343E;
+    position:absolute;
+}
+
+.add-page-second-block{
+  width:100%;
+  height: 640px;
+  background-color: #DCDCDC;
+}
+
+.add-page-second-block-left{
+   width: 78%;
+   background-color: white;
+   float: left;
+
+}
+
+.add-page-second-block-right{
+   width: 22%;
+   background-color: #D3D3D3;
+   float: right;
+
+}
+
+.add-page-third-block{
+   width:100%;
+   background-color: #20343E;
+}
+
+.symbol-logo{
+    float:left;
+    margin-top : 10px;
+}
+
+h1{
+
+color: white;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.logo-1 {
+   font-size: 20px;
+   margin-left : 20px;
+}
+
+
+.search-menu{
+  margin-top : 10px;
+  margin-left : 400px;
+
+}
+
+.button-settings{
+    background-color: white;
+    border: none;
+    color: #20343E;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 5px;
+    margin: 1px 1px;
+    border-radius: 60%;
+
+}
+
+
+.inputsearch{
+  width:300px;
+  text-align:left;
+}
+
+
+.lform1{
+  padding-bottom: 0px;
+  text-align:left;
+  padding: 0 0 0 0px;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+#login{
+  background-color: #20343E;
+  color: white;  
+} 
+
+
+.add-space {
+  width:"80%"
+  float:left;
+  background-color: #20343E;
+}
+
+.story-space{
+  width:"20%"
+  float:right;
+}
+
+

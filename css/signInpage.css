@@ -1,0 +1,133 @@
+
+body, html{
+    width:100%;
+    margin: 0 auto 0;
+}
+ 
+.front-page-first-block,front-page-menu-block {
+    width:100%;
+    background:#20343E;
+}
+
+.symbol-logo{
+    float:left;
+}
+
+h1{
+color: white;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.logo-1 {
+   font-size: 25px;
+   margin-top : 30px;
+   margin-left : 40px;
+   font-family: inherit;
+   
+}
+
+.menu-login {
+  float:right;
+  margin-top : 20px;
+  margin-left : 40px;
+}
+
+.name-account-display{
+  font-size: 30px;
+  display:block;
+  margin-bottom:10px;
+  color:white;
+  margin-left:30px;
+}
+
+.lform1{
+  padding-bottom: 0px;
+  text-align:left;
+  padding: 0 0 0 0px;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+a:link {
+color: #cc0000;
+}
+
+.inputlogin{
+  width:142px;
+  text-align:left;
+}
+
+.frontpagebutton{
+   background-color: #20343E;
+}
+.signin-form-feild{
+   text-align:left;
+   font-size: 10px;
+}
+
+.search-form1{
+   margin-left: 300px;
+   margin-right: 300px;
+}
+
+.front-page-second-block{
+   width:100%;
+   background-color: #DCDCDC;
+}
+
+
+.front-page-last-block{
+    width:100%;
+    background:#20343E;
+    position:absolute;
+}
+
+
+.name1 {
+    float: left;
+}   
+
+.name2 {
+    float: right;
+}
+
+#name {
+    width: 223.67px;
+    height: 40.25px;
+}
+
+.form-group {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.logoimage{
+  margin-top: 100px;
+  margin-left: 500px;
+  margin-right: 400px;
+  width:100px; 
+  height:100px;
+
+}
+#search-form-input{
+  float:center;
+}
+
+#create-account-form{
+  margin-top: 50px;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+
+#searchsubmit{
+  background-color: #20343E;
+  color: white;
+}
+#search{
+  width:500px;
+}
+#login{
+  background-color: #20343E;
+  color: white;  
+}  
