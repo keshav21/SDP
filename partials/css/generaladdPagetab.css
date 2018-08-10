@@ -4,34 +4,34 @@ body, html{
 }
 
 
-.add-general-first-block,add-page-menu-block {
+.help-general-first-block,help-page-menu-block {
     width:100%;
     height: 60px;
     background:#20343E;
     position:absolute;
 }
 
-.add-page-second-block{
+.help-page-second-block{
   width:100%;
   height: 640px;
   background-color: #DCDCDC;
 }
 
-.add-page-second-block-left{
+.help-page-second-block-left{
    width: 78%;
    background-color: white;
    float: left;
 
 }
 
-.add-page-second-block-right{
+.help-page-second-block-right{
    width: 22%;
    background-color: #D3D3D3;
    float: right;
 
 }
 
-.add-page-third-block{
+.help-page-third-block{
    width:100%;
    background-color: #20343E;
 }
@@ -95,14 +95,14 @@ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 } 
 
 
-.add-space {
-  width:"80%"
+.help-space {
+  width:"80%";
   float:left;
   background-color: #20343E;
 }
 
 .story-space{
-  width:"20%"
+  width:"20%";
   float:right;
 }
 
